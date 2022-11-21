@@ -35,4 +35,5 @@ If the blocked resource doesn't need authentication, you can fix the warning mes
 ## See also
 
 - [Content blocking](https://support.mozilla.org/en-US/kb/content-blocking) on [support.mozilla.org](https://support.mozilla.org)
-- [The `crossorigin` attribute](/en-US/docs/Web/HTML/Attributes/crossorigin)
+- [The `crossorigin` attribute](/en-US/docs/Web/HTML/Attributes/crossorigin=anonymous)
+-
